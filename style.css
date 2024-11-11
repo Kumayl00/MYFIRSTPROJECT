@@ -77,3 +77,16 @@ footer {
     text-align: center;
     color: #333;
 }
+
+/*background image attempt*/
+body {
+    position: relative;
+    font-family: 'Lato', sans-serif;
+    line-height: 1.6;
+    color: #444;
+    background-image: url('https://images.pexels.com/photos/957024/forest-trees-perspective-bright-957024.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+}
