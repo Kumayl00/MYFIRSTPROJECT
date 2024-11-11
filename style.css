@@ -32,6 +32,15 @@ nav a {
 nav a:hover {
     color: #333;
 }
+
+/*extra navigation stuff*/
+@media (max-width: 768px) {
+    nav a {
+        display: block;
+        margin: 10px 0;
+    }
+}
+
 /* section styling stuff*/
 #hero {
     background-color: #A6C8FF;
@@ -59,4 +68,12 @@ button {
 }
 button:hover {
     background-color: #FFA07A;
+}
+
+/*Footer*/
+footer {
+    padding: 1rem;
+    background-color: #B3DFFA;
+    text-align: center;
+    color: #333;
 }
