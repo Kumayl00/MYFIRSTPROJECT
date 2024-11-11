@@ -14,3 +14,21 @@ header, section, footer {
     padding: 2rem;
     text-align: center;
 }
+/*header and navigation*/
+header {
+    background-color: #B3DFFA;
+    padding: 1rem;
+}
+header h1 {
+    color: #333;
+    font-size: 1.8rem;
+}
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #444;
+    font-weight: bold;
+}
+nav a:hover {
+    color: #333;
+}
