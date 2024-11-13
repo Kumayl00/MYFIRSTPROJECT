@@ -35,6 +35,22 @@ Responsive Design: Fully responsive layout that adapts seamlessly across desktop
 
 favicon: attempted but did not work due to time constraints and so is not visible.
 
+DEPLOYMENT
+
+Github Pages was used to deploy the live website. The instructions to achieve this are below:
+
+Log in (or sign up) to Github.
+
+Find the repository for this project, Bully-Book-Club.
+
+Click on the Settings link.
+
+Click on the Pages link in the left hand side navigation bar.
+
+In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
+
+Click Save. Your live Github Pages site is now deployed at the URL shown.
+
 CREDITS 
 
 Code Used
