@@ -20,6 +20,8 @@ Find emergency contacts quickly to reach out immediately if they are in crisis o
 Navigate the website comfortably to find relevant resources without confusion or distraction.
 Feel encouraged to seek help by seeing positive messages and simple, clear guidance on how to talk about mental health.
 
+https://8000-kumayl00-myfirstproject-6atq8547l90.ws.codeinstitute-ide.net/ - link to the website
+
 FEATURES
 
 Single-Page Design: A clean, user-friendly single-page layout for easy navigation and quick access to resources.
