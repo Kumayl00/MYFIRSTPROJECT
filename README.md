@@ -35,11 +35,16 @@ Responsive Design: Fully responsive layout that adapts seamlessly across desktop
 
 favicon: attempted but did not work due to time constraints and so is not visible.
 
+CREDITS 
+
 Code Used
+
 i used chatgpt to give me the base structure of the code and also a general idea of how the website could look
 
 Content
+
 Content for the website was created by me with some assistance from ChatGPT
 
 Media
+
 The Images from my site were all taken from pexels and the links from youtube or external mental health websites
