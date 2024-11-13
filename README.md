@@ -1,5 +1,7 @@
 # MYFIRSTPROJECT
+
 User Experience (UX)
+
 User Stories
 As a user, I want to access mental health support resources easily so that I can learn more about coping strategies and get immediate help if needed.
 As a user, I want to find emergency contacts quickly so that I can reach out for help in a crisis without searching through multiple pages.
