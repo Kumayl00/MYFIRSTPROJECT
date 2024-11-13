@@ -1,6 +1,6 @@
 # MYFIRSTPROJECT
 
-User Experience (UX)
+USER EXPERIENCE (UX)
 
 User Stories
 As a user, I want to access mental health support resources easily so that I can learn more about coping strategies and get immediate help if needed.
@@ -19,3 +19,12 @@ Access mental health support resources easily for quick information and self-hel
 Find emergency contacts quickly to reach out immediately if they are in crisis or need urgent support.
 Navigate the website comfortably to find relevant resources without confusion or distraction.
 Feel encouraged to seek help by seeing positive messages and simple, clear guidance on how to talk about mental health.
+
+FEATURES
+
+Single-Page Design: A clean, user-friendly single-page layout for easy navigation and quick access to resources.
+Encouraging Hero Section: Welcoming introductory message with a Get Started button linking to trusted UK mental health resources to encourage users to seek support.
+Resources Section: Organized video library offering informative content on mental health topics like managing stress and anxiety, each with links to further information.
+Support Section: Quick access to UK mental health hotlines (e.g., Samaritans, Shout) with click-to-call and text options for urgent support.
+Responsive Design: Fully responsive layout that adapts seamlessly across desktop, tablet, and mobile devices.
+favicon: attempted but did not work due to time constraints and so is not visible.
